@@ -4,9 +4,9 @@
 
 **About:**
 modern, fast and scalable server-side web app with NodeJS, databases like SQL or MongoDB and more.
+
 **Many concepts have been applied such as:**
 - NodeJS & Express.js
-- NoSQL & MongoDB
 - (MVC) Pattern
 - SQL (MySQL) and Sequelize
 - NoSQL (MongoDB) and Mongoose
