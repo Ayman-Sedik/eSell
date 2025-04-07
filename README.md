@@ -11,6 +11,7 @@ modern, fast and scalable server-side web app with NodeJS, databases like SQL or
 - SQL (MySQL) and Sequelize
 - NoSQL (MongoDB) and Mongoose
 - Sessions & Cookies
-
+- REST APIs & GraphQL APIs
+- Websockets
 
 
